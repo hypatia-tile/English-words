@@ -1,0 +1,8 @@
+id: cc053577-0172-4917-abf1-e10e1fae13e2
+name: eventual consistency
+type: terminology
+created_at: '2025-12-14T16:43:03.750423'
+context: distributed systems
+meaning: null
+example: DynamoDB uses eventual consistency to provide high availability across regions.
+last_reviewed: null
